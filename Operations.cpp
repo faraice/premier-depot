@@ -29,3 +29,13 @@ int division(int a, int b)
 	res = a/b;
 	return res;
 }
+int exposant(int nb,int exp)
+{
+	int res = nb;
+	for(int i<0;int = exp ;i++)
+	{
+		res = res*nb;
+		
+	}
+	return res
+}
